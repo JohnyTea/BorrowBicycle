@@ -108,7 +108,7 @@ func printWszystkieWypozyczenia()
 }
 
 var wypozyczeniaArray = [Wypozyczenia]()
-
+//GitTest
 repeat{
   printMenu()
   var menuControll = readLine()
